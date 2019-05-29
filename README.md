@@ -1,6 +1,6 @@
 # Onion Omega2 expansion board
 
-https://github.com/DZimasik/Onion-Omega2-expansion-board/raw/master/img/img_0.jpg
+https://github.com/DZimasik/Onion-Omega2-expansion-board/raw/master/img/img_0.png
 
 This expansion board for Onion Omega2 include:
 1) 3.3V regulator (NCP1117-33G)
