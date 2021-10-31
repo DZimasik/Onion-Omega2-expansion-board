@@ -1,0 +1,15 @@
+# Ignore all
+*
+
+# But don't ignore next one
+!/board
+!/board/*.OutJob
+!/board/*.PcbDoc
+!/board/*.PrjPcb
+!/board/*.SchDoc
+
+!/img
+!/img/*.jpg
+
+!.gitignore
+!README.md
